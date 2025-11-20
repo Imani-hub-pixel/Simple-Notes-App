@@ -66,6 +66,8 @@ Navigate to the Notes List page to see all saved notes with their creation and l
 
 Repeat to add more notes — the newest notes appear at the top of the list.
 
+---
+
 Future Improvemnets
 Add edit and delete functionality for notes.
 
@@ -76,6 +78,8 @@ Enhance the UI with CSS or Bootstrap for a polished look.
 Enable sorting and filtering of notes by creation or update timestamps.
 
 Add search functionality to quickly find notes.
+
+---
 
 License
 This project is open-source and free to use.
