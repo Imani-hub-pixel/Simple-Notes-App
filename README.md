@@ -27,11 +27,11 @@ A beginner-friendly Django project to create, save, and view notes with timestam
 
 ### Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Imani-hub-pixel/Simple-Notes-App.git>
 cd notes_project
 
 
-###  Setting up virtual environment
+#Setting up virtual environment
 python -m venv venv
 # Activate it:
 # Windows:
