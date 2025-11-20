@@ -49,29 +49,18 @@ python manage.py migrate
 #Run the development server
 python manage.py runserver
 
-Usage
+## Usage
+- Open the homepage and fill in the **Title** and **Content** fields to add a new note.
+- Click **Save Note** to store it in the database.
+- Navigate to the **Notes List** page to see all saved notes with their creation and last update timestamps.
+- Repeat to add more notes — the newest notes appear at the top of the list.
 
-Open the homepage and fill in the Title and Content fields to add a new note.
+## Future Improvements
+- Add **edit and delete** functionality for notes.
+- Implement **user authentication** for personal note lists.
+- Enhance the UI with **CSS or Bootstrap** for a polished look.
+- Enable **sorting and filtering** of notes by creation or update timestamps.
+- Add **search functionality** to quickly find notes.
 
-Click Save Note to store it in the database.
-
-Navigate to the Notes List page to see all saved notes with their creation and last update timestamps.
-
-Repeat to add more notes — the newest notes appear at the top of the list.
-
-
-Future Improvements
-
-Add edit and delete functionality for notes
-
-Implement user authentication for personal note lists
-
-Enhance the UI with CSS or Bootstrap for a polished look
-
-Enable sorting and filtering of notes by creation or update timestamps
-
-Add search functionality to quickly find notes
-
-License
-
+## License
 This project is open-source and free to use.
