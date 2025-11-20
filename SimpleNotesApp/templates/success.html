@@ -1,0 +1,9 @@
+<h1>Your Notes</h1>
+<ul>
+    {% for note in notes %}
+        <li>{{ note.content }}</li>
+    {% empty %}
+        <li>No notes available.</li>
+    {% endfor %}
+</ul>
+<a href="{% url 'index' %}" class="btn">Add Note</a>
